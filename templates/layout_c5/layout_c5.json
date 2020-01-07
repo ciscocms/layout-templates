@@ -87,8 +87,8 @@
             {
                "left":1.5,
                "right":2.0,
-               "upper":1.50,
-               "lower":2.0
+               "upper":0.5,
+               "lower":1.0
             },
             {
                "left":0.5,
